@@ -315,7 +315,7 @@ footer{
     flex-wrap: wrap;
     justify-content: space-between;
     background: aqua;
-    border-top: 5px solid rgb(37, 37, 37);
+    border-top: 5px solid rgb(6, 6, 6);
     bottom: 0;
     width: 100%;
     padding-left: 2rem;
@@ -323,6 +323,7 @@ footer{
     padding-right: 2rem;
     padding-bottom: 1.5rem;
 }
+
 .info p{
     font-size: 2rem;
     font-family: 'BhuTuka Expanded One', cursive;
@@ -332,7 +333,7 @@ h4 {
     font-family: 'BhuTuka Expanded One', cursive;
 }
 i{
-    color: rgb(228, 179, 179);
+    color: rgb(16, 15, 15);
     padding: 1rem;
     cursor: pointer;
     font-size: 7rem;
